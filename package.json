@@ -1,0 +1,11 @@
+{
+  "name": "appulate",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^5.1.9",
+    "gulp-sourcemaps": "^1.5.2",
+    "postcss-import": "^6.0.0"
+  }
+}
